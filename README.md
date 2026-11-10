@@ -1,6 +1,6 @@
 # Olá, eu sou o Fagner 👋
 
-**Desenvolvedor de Sistemas Pleno** em Salvador – BA, com mais de 9 anos criando sistemas web, APIs, apps e automações, e com uma base forte em **bancos de dados relacionais**. Hoje estou em transição para **Análise de Dados e BI**.
+**Desenvolvedor de Sistemas Pleno** em Salvador – BA, com mais de 10 anos criando sistemas web, APIs, apps e automações, e com uma base forte em **bancos de dados relacionais**. Hoje estou em transição para **Análise de Dados e BI**.
 
 - 🗄️ SQL no dia a dia com **Oracle, PostgreSQL e MySQL/MariaDB**
 - ⚙️ Back-end em **PHP (CodeIgniter 4)** e **Python (FastAPI)**, front-end em **React + TypeScript**, mobile em **Flutter**
@@ -27,4 +27,4 @@
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/fagner-soares-19b400168/) · fagner_soares1@outlook.com
+[LinkedIn](https://www.linkedin.com/in/fagnerssantos/) · fagner_soares1@outlook.com
