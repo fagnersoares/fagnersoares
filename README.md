@@ -12,7 +12,7 @@
 **Dados:** Oracle · PostgreSQL · MySQL/MariaDB · SQL · Firestore · Power BI · Excel
 **Back-end:** PHP · CodeIgniter 4 · Python · FastAPI · Node.js (Cloud Functions) · APIs REST
 **Front-end e mobile:** React · TypeScript · Vite · JavaScript · Flutter · Dart
-**Automação e IA:** N8N · agentes de IA
+**Automação e IA:** N8N · agentes de IA · Gemini API
 **Ferramentas:** Git · Firebase · XAMPP · VS Code · ERP Sankhya
 
 ## 🚀 Projetos em destaque
@@ -20,10 +20,11 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | [CaixaZero](https://github.com/fagnersoares/caixazero-showcase) | App Android para registrar compras, analisar gastos, comparar preços entre mercados e receber alertas de ofertas | Flutter · Firebase · Cloud Functions · RevenueCat |
+| [Mente Afiada](https://github.com/fagnersoares/mente-afiada-showcase) | App Android de estudo diário com repetição espaçada, gamificação e perguntas geradas por IA e revisadas por um administrador | Flutter · Firebase · Gemini API · TypeScript |
 | [Agência de Fotografia](https://github.com/fagnersoares/agencia-fotografia-showcase) | Portal de aprovação de conteúdo com área administrativa, área do cliente e versionamento de publicações | CodeIgniter 4 · React 19 · TypeScript · MySQL |
 | [Conversor de Texto em Voz](https://github.com/fagnersoares/Converter-texto-em-voz) | Gera narrações em MP3 com vozes neurais da Microsoft para vídeos | Python · edge-tts · asyncio |
 
-> CaixaZero e Agência de Fotografia são vitrines: o código-fonte é privado e pode ser apresentado em processos seletivos.
+> CaixaZero, Mente Afiada e Agência de Fotografia são vitrines: o código-fonte é privado e pode ser apresentado em processos seletivos.
 
 ## 📫 Contato
 
